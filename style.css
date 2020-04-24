@@ -1,9 +1,8 @@
-<head>
-<sytle>
-   h1 {
+ h1 {
      color:blue;
      text-align:center;
    }
- </style>
- </head>
- 
+p {
+  color:red;
+  text-align:center;
+}
